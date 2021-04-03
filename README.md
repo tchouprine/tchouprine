@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alex, programmer from Ukraine!
 - 👀 I’m interested in webdev
 - 🌱 I’m currently learning erlang and browser networking
-- 💞️ I’m would love to collaborate on erlang, js/ts, reac projects
+- 💞️ I’m would love to collaborate on erlang, js/ts, react projects
 
 <!---
 tchouprine/tchouprine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
